@@ -27,5 +27,4 @@ class Book:
             self._page_count = 0
             print("Book is now closed.")
 
-    
-        
+
